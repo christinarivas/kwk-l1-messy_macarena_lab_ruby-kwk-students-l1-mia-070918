@@ -10,7 +10,7 @@ puts "Step 1: Right arm out in front of you, palm facing down."
 
 # Step 2: FIXME
 puts "Step 2: Turn your right palm up."
-
+#Turn your right palm up.
 # Step 3: FIXME
 puts "Step 3: Place your right hand on your left shoulder."
 
